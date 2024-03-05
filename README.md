@@ -1,6 +1,12 @@
-# Question-Answer Generation Pipeline (qa-generator-pipeline-aied2024)
+# Question-Answer Generation Pipeline
 
 This project generates questions and answers from PDF lecture slides using different AI models.
+
+It is also a supplementary material for the following conference paper:
+
+(Anonymous authors).\
+**Comparison of Large Language Models for Generating Contextually Relevant Questions**.\
+Submitted to the Conference on Artificial Intelligence in Education (AIED 2024).
 
 ## Contents
 
@@ -29,6 +35,7 @@ The workflow follows these steps:
 6. Save question-answer pairs to JSON file
 
 The code provides examples for generating questions from a set of sample lecture slides on Pattern Recognition.
+(These slides are not included in this repository.)
 
 ## Setup
 
@@ -86,7 +93,7 @@ Set the `OPENAI_API_KEY` and `HF_AUTH_TOKEN` environment variables before runnin
 
 ### Flan-T5-XXL
 
-[Flan-T5-XXL](https://huggingface.co/google/flan-t5-xxl) generates additional questions for each answer.
+[Flan-T5-XXL](https://huggingface.co/google/flan-t5-xxl) also generates additional questions for each answer.
 
 ## Results
 
