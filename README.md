@@ -25,6 +25,8 @@ In 19th European Conference on Technology Enhanced Learning (ECTEL 2024).
 
 ## Overview
 
+![Alt text](figures/workflow_diagram.png)
+
 The workflow follows these steps:
 
 1. Extract text from PDF slides
@@ -96,6 +98,8 @@ Set the `OPENAI_API_KEY` and `HF_AUTH_TOKEN` environment variables before runnin
 ## Results
 
 The output is a JSON file `qa_pairs.json` containing the generated question-answer pairs.
+
+See also the `/figures` folder for the analysis of the answer distributions for the paper.
 
 ## Contributing
 
