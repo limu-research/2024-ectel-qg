@@ -4,9 +4,9 @@ This project generates questions and answers from PDF lecture slides using diffe
 
 It is also a supplementary material for the following conference paper:
 
-(Anonymous authors).\
+Ivo Lodovico Molina, Valdemar Švábenský, Tsubasa Minematsu, Li Chen, Fumiya Okubo, and Atsushi Shimada.\
 **Comparison of Large Language Models for Generating Contextually Relevant Questions**.\
-Submitted to the Conference on Artificial Intelligence in Education (AIED 2024).
+In 19th European Conference on Technology Enhanced Learning (ECTEL 2024).
 
 ## Contents
 
