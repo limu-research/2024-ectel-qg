@@ -22,6 +22,7 @@ If you use or build upon the materials, please use the BibTeX entry below to cit
     location  = {Krems, Austria},
     publisher = {Springer},
     month     = {09},
+    year      = {2024},
     numpages  = {6},
 }
 ```
