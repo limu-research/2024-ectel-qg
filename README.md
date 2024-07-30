@@ -8,6 +8,24 @@ Ivo Lodovico Molina, Valdemar Švábenský, Tsubasa Minematsu, Li Chen, Fumiya O
 **Comparison of Large Language Models for Generating Contextually Relevant Questions**.\
 In 19th European Conference on Technology Enhanced Learning (ECTEL 2024).
 
+## How to cite
+
+If you use or build upon the materials, please use the BibTeX entry below to cite the original paper (not only this web link).
+
+```bibtex
+@inproceedings{Molina2024comparison,
+    author    = {Lodovico Molina, Ivo and \v{S}v\'{a}bensk\'{y}, Valdemar and Minematsu, Tsubasa and Chen, Li and Okubo, Fumiya and Shimada, Atsushi},
+    title     = {{Comparison of Large Language Models for Generating Contextually Relevant Questions}},
+    booktitle = {Proceedings of the 19th European Conference on Technology Enhanced Learning},
+    series    = {ECTEL '24},
+    editor    = {Mello, Rafael Ferreira and Rummel, Nikol and Jivet, Ioana and Pishtari, Gerti and Ruipérez Valiente, José A.},
+    location  = {Krems, Austria},
+    publisher = {Springer},
+    month     = {09},
+    numpages  = {6},
+}
+```
+
 ## Contents
 
 - [Overview](#overview)
