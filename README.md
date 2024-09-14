@@ -24,7 +24,7 @@ If you use or build upon the materials, please use the BibTeX entry below to cit
     editor    = {Mello, Rafael Ferreira and Rummel, Nikol and Jivet, Ioana and Pishtari, Gerti and Ruipérez Valiente, José A.},
     location  = {Krems, Austria},
     publisher = {Springer},
-    address   = {Cham, Switzerland}
+    address   = {Cham, Switzerland},
     year      = {2024},
     numpages  = {6},
     isbn      = {978-3-031-72312-4},
