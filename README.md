@@ -6,7 +6,8 @@ It is also a supplementary material for the following conference paper:
 
 Ivo Lodovico Molina, Valdemar Švábenský, Tsubasa Minematsu, Li Chen, Fumiya Okubo, and Atsushi Shimada.\
 **Comparison of Large Language Models for Generating Contextually Relevant Questions**.\
-In 19th European Conference on Technology Enhanced Learning (ECTEL 2024).
+In 19th European Conference on Technology Enhanced Learning (ECTEL 2024).\
+https://link.springer.com/chapter/10.1007/978-3-031-72312-4_18
 
 Preprint: https://arxiv.org/abs/2407.20578
 
@@ -23,9 +24,12 @@ If you use or build upon the materials, please use the BibTeX entry below to cit
     editor    = {Mello, Rafael Ferreira and Rummel, Nikol and Jivet, Ioana and Pishtari, Gerti and Ruipérez Valiente, José A.},
     location  = {Krems, Austria},
     publisher = {Springer},
-    month     = {09},
+    address   = {Cham, Switzerland}
     year      = {2024},
     numpages  = {6},
+    isbn      = {978-3-031-72312-4},
+    url       = {https://doi.org/10.1007/978-3-031-72312-4_18},
+    doi       = {10.1007/978-3-031-72312-4_18}
 }
 ```
 
